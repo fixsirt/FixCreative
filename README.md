@@ -102,23 +102,7 @@ Messages are in `plugins/FixCreative/languages/`:
 
 Files are auto-copied on first load. Edit them to customize messages.
 
-## Building
 
-### Maven (Command Line)
-
-```bash
-mvn clean package
-```
-
-Output: `target/FixCreative-1.0.0.jar`
-
-### IDE
-
-**IntelliJ IDEA**: Maven panel → `Lifecycle → clean` → `Lifecycle → package`
-
-**Eclipse**: Right-click `pom.xml` → `Run As` → `Maven build...` → Goals: `clean package`
-
-**VS Code**: Terminal → `mvn clean package`
 
 ## How It Works
 
