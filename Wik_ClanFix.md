@@ -91,18 +91,18 @@ raids:
 
 ## 🔑 Permissions
 
-| Permission | Default | Description |
+| Permission | Description |
 |------------|---------|-------------|
-| `clansfix.create` | op | Create clan without payment |
-| `clansfix.invite` | leader | Invite players |
-| `clansfix.kick` | leader | Kick members |
-| `clansfix.leave` | true | Leave clan |
-| `clansfix.deposit` | member | Deposit to treasury |
-| `clansfix.withdraw` | elder | Withdraw from treasury |
-| `clansfix.chat` | true | Use clan chat |
-| `clansfix.reload` | op | Reload config |
-| `clansfix.admin` | op | Admin panel access |
-| `clansfix.tphere` | op | Teleport clan members |
+| `clansfix.create` | Create clan without payment |
+| `clansfix.invite` | Invite players |
+| `clansfix.kick` | Kick members |
+| `clansfix.leave` | Leave clan |
+| `clansfix.deposit` | Deposit to treasury |
+| `clansfix.withdraw` | Withdraw from treasury |
+| `clansfix.chat` | Use clan chat |
+| `clansfix.reload` | Reload config |
+| `clansfix.admin` | Admin panel access |
+| `clansfix.tphere` | Teleport clan members |
 
 ### Rank Hierarchy
 
