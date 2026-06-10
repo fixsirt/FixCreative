@@ -104,15 +104,7 @@ raids:
 | `clansfix.admin` | Admin panel access |
 | `clansfix.tphere` | Teleport clan members |
 
-### Rank Hierarchy
 
-| Rank | Permissions |
-|------|-------------|
-| **Leader** | Full access — invite, kick, deposit, withdraw, settings, rename, delete, start raid, manage permissions |
-| **Elder** | Invite, kick members, deposit, withdraw, start raid |
-| **Trusted** | Deposit, invite |
-| **Member** | Deposit, clan chat, participate in raids |
-| **Novice** | Clan chat, basic participation |
 
 ### Fine-Grained Permissions
 
